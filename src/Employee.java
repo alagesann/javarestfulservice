@@ -22,4 +22,8 @@ public class Employee {
     {
         System.out.println("display2");
     }
+    public void display4()
+    {
+        System.out.println("display4");
+    }
 }
