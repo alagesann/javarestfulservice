@@ -31,4 +31,8 @@ public class Employee {
     {
         System.out.println("display4");
     }
+    public void display100()
+    {
+        System.out.println("display100");
+    }
 }
