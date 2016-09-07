@@ -22,8 +22,13 @@ public class Employee {
     {
         System.out.println("display2");
     }
+
     public void display3()
     {
         System.out.println("display3");
+    }
+    public void display4()
+    {
+        System.out.println("display4");
     }
 }
