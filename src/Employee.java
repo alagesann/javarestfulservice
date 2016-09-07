@@ -14,4 +14,8 @@ public class Employee {
         System.out.println("Name: "+this.Name);
         System.out.println("EmpId: "+this.EmpId);
     }
+    public void display2()
+    {
+        System.out.println("display2");
+    }
 }
