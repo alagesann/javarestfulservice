@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7431366c-605d-4374-9b55-5736f16457ca" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
     </list>
+=======
+    <list default="true" id="7431366c-605d-4374-9b55-5736f16457ca" name="Default" comment="" />
+>>>>>>> 4aeb58e6f3724a0bb4a24a0d81ec9144d9bdc5d2
     <ignored path="javarestful.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +43,11 @@
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
+<<<<<<< HEAD
               <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+=======
+              <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+>>>>>>> 4aeb58e6f3724a0bb4a24a0d81ec9144d9bdc5d2
               <folding />
             </state>
           </provider>
@@ -215,12 +223,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1466322533134</updated>
+<<<<<<< HEAD
       <workItem from="1466322534665" duration="1450000" />
+=======
+      <workItem from="1466322534665" duration="1315000" />
+>>>>>>> 4aeb58e6f3724a0bb4a24a0d81ec9144d9bdc5d2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1450000" />
+=======
+    <option name="totallyTimeSpent" value="1315000" />
+>>>>>>> 4aeb58e6f3724a0bb4a24a0d81ec9144d9bdc5d2
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -292,7 +308,11 @@
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< HEAD
           <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+=======
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+>>>>>>> 4aeb58e6f3724a0bb4a24a0d81ec9144d9bdc5d2
           <folding />
         </state>
       </provider>
